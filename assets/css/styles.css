@@ -338,7 +338,8 @@ header {
 #contact {
   height: 80vh;
 }
-#services {
+#services,
+#contact {
   background: var(--clr-white);
 }
 footer {

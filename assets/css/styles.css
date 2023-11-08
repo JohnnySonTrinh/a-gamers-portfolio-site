@@ -82,12 +82,7 @@ ul {
 a {
   text-decoration: none;
 }
-img:not(.logo) {
-  width: 100%;
-}
-img {
-  display: block;
-}
+
 
 h1,
 h2,
@@ -240,7 +235,7 @@ nav {
   color: var(--clr-secondary);
 }
 .logo {
-  height: 50px;
+  height: 30px;
 }
 .links-container {
   height: 0;

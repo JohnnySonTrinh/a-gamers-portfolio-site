@@ -71,7 +71,7 @@ html {
 }
 body {
   font-family: var(--ff-secondary);
-  background: var(--clr-grey-10);
+  background: var(--clr-white);
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
@@ -172,6 +172,12 @@ p {
 /* section */
 .section {
   padding-bottom: 5rem;
+}
+
+.section h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .section-center {
@@ -334,6 +340,7 @@ header {
 .title h2 {
   text-align: center;
   text-transform: uppercase;
+  color: var(--clr-black);
 }
 .title span {
   color: var(--clr-secondary);
@@ -349,7 +356,7 @@ header {
   background: var(--clr-white);
 }
 footer {
-  background: var(--clr-grey-1);
+  background: var(--clr-black);
   padding: 5rem 1rem;
 }
 footer p {

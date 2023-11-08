@@ -302,8 +302,6 @@ header {
   min-height: 100vh;
   background: linear-gradient(rgba(26, 6, 33, 0.5), rgba(0, 0, 0, 0.7)),
     url(../images/hero.jpg) center/cover no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
 }
 .banner {
   min-height: 100vh;
@@ -336,7 +334,8 @@ header {
 }
 #about,
 #services,
-#tours {
+#testimonials,
+#contact {
   height: 80vh;
 }
 #services {

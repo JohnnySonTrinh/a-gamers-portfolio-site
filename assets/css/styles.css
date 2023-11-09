@@ -83,7 +83,6 @@ a {
   text-decoration: none;
 }
 
-
 h1,
 h2,
 h3,
@@ -330,6 +329,13 @@ header {
   .container p {
     max-width: 40rem;
   }
+}
+/* Shoutout to Proguides */
+.shoutout {
+  background: linear-gradient(rgba(37, 95, 161, 0.5), rgba(0, 0, 0, 0.7)),
+    url('../images/bg.jpg') no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 /* sections and title */
 .title h2 {

@@ -152,3 +152,16 @@ randomBtn.addEventListener('click', function () {
   currentItem = Math.floor(Math.random() * reviews.length);
   showPerson(currentItem);
 });
+
+// arrow up
+const topLink = document.querySelector('.top-link');
+
+window.addEventListener('scroll', function () {
+  const scrollHeight = window.pageYOffset;
+
+  if (scrollHeight > 500) {
+    topLink.classList.add('show-link');
+  } else {
+    topLink.classList.remove('show-link');
+  }
+});

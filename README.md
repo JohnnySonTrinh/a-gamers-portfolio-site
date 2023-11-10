@@ -1,6 +1,6 @@
 # [A GAMERS PORTFOLIO SITE](https://johnnysontrinh.github.io/a-gamers-portfolio-site)
 
-![Preview of my website](/images/screenshot.png 'Website Preview')
+![Preview of my website](./assets/images/preview.png 'Website Preview')
 
 ## UX
 

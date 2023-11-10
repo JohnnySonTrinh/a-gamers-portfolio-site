@@ -1,4 +1,4 @@
-# [A GAMERS PORTFOLIO SITE](https://johnnysontrinh.github.io/a-gamers-portfolio-site)
+# [A GAMERS PORTFOLIO SITE](https://johnnysontrinh.github.io/a-gamers-portfolio-site)![Preview of my website](/images/screenshot.png 'Website Preview')
 
 ## UX
 
@@ -39,19 +39,19 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
 
 ### New Site Users
 
-- As a new site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
-- As a new site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
-- As a new site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
-- As a new site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
-- As a new site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
+- As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
+- As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
+- As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
+- As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
+- As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
 
 ### Returning Site Users
 
-- As a returning site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
-- As a returning site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
-- As a returning site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
-- As a returning site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
-- As a returning site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.
+- As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
+- As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
+- As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
+- As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
+- As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.
 
 ## Wireframes
 

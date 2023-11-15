@@ -1,16 +1,25 @@
+/* jshint esversion: 11 */
+
+// retrieve the element with the ID 'date' and set its content to the current year.
 const date = document.getElementById('date');
 date.innerHTML = new Date().getFullYear();
 
+// select the elements from the DOM needed for the navigation toggle functionality.
 const navToggle = document.querySelector('.nav-toggle');
 const linksContainer = document.querySelector('.links-container');
 const links = document.querySelector('.links');
 
+// add an event listener for a click event on the navigation toggle button.
 navToggle.addEventListener('click', function () {
   const linksHeight = links.getBoundingClientRect().height;
   const containerHeight = linksContainer.getBoundingClientRect().height;
+
+  // Check if the links container is currently collapsed (height is 0).
   if (containerHeight === 0) {
+    // If it's collapsed
     linksContainer.style.height = `${linksHeight}px`;
   } else {
+    // If it's expanded
     linksContainer.style.height = 0;
   }
 });

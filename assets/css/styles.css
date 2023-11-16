@@ -32,7 +32,6 @@ html {
   scroll-behavior: smooth;
 }
 *,
-/* Global reset and box-sizing for consistent sizing */
 ::after,
 ::before {
   margin: 0;
@@ -53,6 +52,7 @@ a {
   text-decoration: none;
 }
 
+/* Heading and paragrahps styling */
 h1,
 h2,
 h3,
@@ -80,8 +80,7 @@ p {
   color: var(--clr-grey-2);
 }
 
-/*  global classes */
-
+/* Button styling with hover effect */
 .btn {
   text-transform: uppercase;
   background: transparent;
@@ -110,17 +109,16 @@ p {
   background: var(--clr-white);
   color: var(--clr-secondary);
 }
-/* section */
+
+/* Section Styling */
 .section {
   padding-bottom: 5rem;
 }
-
 .section h3 {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 .section-center {
   width: 90vw;
   margin: 0 auto;
@@ -131,17 +129,12 @@ main {
   display: grid;
   place-items: center;
 }
-/*
-=============== 
-Scroll
-===============
-*/
-/* navbar */
+
+/* Navbar styling */
 nav {
   background: var(--clr-white);
   padding: 1rem 1.5rem;
 }
-/* fixed nav */
 .fixed-nav {
   position: fixed;
   top: 0;
@@ -175,9 +168,11 @@ nav {
 .nav-toggle:hover {
   color: var(--clr-secondary);
 }
+/* Logo */
 .logo {
   height: 30px;
 }
+/* Links and navbar */
 .links-container {
   height: 0;
   overflow: hidden;
@@ -200,6 +195,7 @@ nav {
 .links a:hover {
   color: var(--clr-grey-1);
 }
+
 /* hero */
 header {
   min-height: 100vh;
@@ -227,6 +223,7 @@ header {
   margin: 0 auto;
   margin-bottom: 1.25rem;
 }
+
 /* Shoutout to Proguides */
 .shoutout {
   background: linear-gradient(rgba(37, 95, 161, 0.5), rgba(0, 0, 0, 0.7)),
@@ -234,7 +231,8 @@ header {
   background-size: cover;
   background-attachment: fixed;
 }
-/* sections and title */
+
+/* Sections and title */
 .title h2 {
   text-align: center;
   text-transform: uppercase;
@@ -304,6 +302,7 @@ footer p {
   }
 }
 
+/* Media queries for different screen sizes */
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 4rem;
@@ -371,11 +370,13 @@ footer p {
     color: var(--clr-white);
   }
 }
+
 @media screen and (min-width: 768px) {
   .container p {
     max-width: 40rem;
   }
 }
+
 @media screen and (min-width: 992px) {
   .section-center {
     width: 95vw;

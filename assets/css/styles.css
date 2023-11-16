@@ -301,8 +301,8 @@ nav {
 /* hero */
 header {
   min-height: 100vh;
-  background: linear-gradient(rgba(26, 6, 33, 0.5), rgba(0, 0, 0, 0.7)),
-    url(../images/hero.webp) center/cover no-repeat;
+  background: linear-gradient(rgba(22, 2, 29, 0.922), rgba(58, 9, 9, 0.7)),
+    url(../images/omen.webp) center/cover no-repeat;
   background-attachment: fixed;
 }
 .banner {
@@ -406,3 +406,9 @@ footer p {
     transform: scale(1);
   }
 }
+  header {
+    min-height: 100vh;
+    background: linear-gradient(rgba(26, 6, 33, 0.5), rgba(0, 0, 0, 0.7)),
+      url(../images/hero.webp) center/cover no-repeat;
+    background-attachment: fixed;
+  }

@@ -10,8 +10,8 @@ For wireframing and viual structuring of my website's layout and design, I chose
 
 The wireframes are below:
 
-### [Desktop Wireframe] (documentation/wireframe-desktop.png "Desktop Wireframe")
+### [Desktop Wireframe](documentation/wireframe-desktop.png "Desktop Wireframe")
 
-### [Tablet Wireframe] (documentation/wireframe-tablet.png "Tablet Wireframe")
+### [Tablet Wireframe](documentation/wireframe-tablet.png "Tablet Wireframe")
 
-### [Mobile Wireframe] (documentation/wireframe-mobile.png "Mobile Wireframe")
+### [Mobile Wireframe](documentation/wireframe-mobile.png "Mobile Wireframe")

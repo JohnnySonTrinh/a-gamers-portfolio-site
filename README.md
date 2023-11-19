@@ -47,3 +47,35 @@ The wireframes are below:
 ### [Tablet Wireframe](documentation/wireframe-tablet.png "Tablet Wireframe")
 
 ### [Mobile Wireframe](documentation/wireframe-mobile.png "Mobile Wireframe")
+
+### Colors
+
+I used [coolors.co](https://coolors.co/0d6efd-000000-212529-6c757d-ffffff "Coolors") to generate my colour palette.
+
+![screenshot](documentation/coolors.png)
+
+I've used CSS ':root' variables to easily update the global colour scheme by changing only one value instead of everywhere in the CSS file.
+
+```css
+:root {
+  /* Primary color shades */
+  --clr-primary-1: hsl(205, 86%, 17%);
+  --clr-primary-2: hsl(205, 77%, 27%);
+  /* Secondary color shades */
+  --clr-secondary: rgb(24, 5, 47);
+  --clr-grey-1: hsl(209, 61%, 16%);
+  --clr-grey-2: hsl(210, 22%, 49%);
+  /* White/black color shades */
+  --clr-white: #fff;
+  --clr-black: #222;
+  /* Primary and secondary font families */
+  --ff-primary: "Roboto", sans-serif;
+  --ff-secondary: "Open Sans", sans-serif;
+  /* Commonly used CSS properties for consistency */
+  --transition: all 0.3s linear;
+  --spacing: 0.25rem;
+  --radius: 0.5rem;
+  --light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  --max-width: 1170px;
+}
+```

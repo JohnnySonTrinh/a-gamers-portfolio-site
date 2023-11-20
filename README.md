@@ -113,3 +113,5 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 ### Media
 
 ### Acknowledgements
+
+- I would like to thank my mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.

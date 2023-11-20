@@ -2,8 +2,6 @@
 
 ![Preview of my website](./documentation/preview.png "Website Preview")
 
-## UX
-
 ## User Experience
 
 ### User Requirements and Expectations
@@ -36,7 +34,7 @@
 - the quality and performance of the website should be consistent across all devices and screen sizes.
 - All content, from biographical details to service offerings, should be current, precise and accurate.
 
-# Wireframes
+## Wireframes
 
 For wireframing and viual structuring of my website's layout and design, I chose to utilize [Balsamiq](http://balsamiq.com/wireframes/ "Balsamic"). This tool allowed me to meticulously plan for a user-centric interface, ensuring that the experiance remains consistent and accessible on various devices. My goal throughout the design process was to prioritize ease of use and maintain a cohesive aesthetic from one to the next.
 
@@ -47,6 +45,8 @@ The wireframes are below:
 ### [Tablet Wireframe](documentation/wireframe-tablet.png "Tablet Wireframe")
 
 ### [Mobile Wireframe](documentation/wireframe-mobile.png "Mobile Wireframe")
+
+## UX
 
 ### Colors Scheme
 
@@ -79,3 +79,11 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
   --max-width: 1170px;
 }
 ```
+
+### Typography
+
+- [Roboto](https://fonts.google.com/specimen/Roboto) was used for the primary headers and titles.
+
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) was used for all other secondary text.
+
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.

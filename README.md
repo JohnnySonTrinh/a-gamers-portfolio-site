@@ -48,7 +48,7 @@ The wireframes are below:
 
 ### [Mobile Wireframe](documentation/wireframe-mobile.png "Mobile Wireframe")
 
-### Colors
+### Colors Scheme
 
 I used [coolors.co](https://coolors.co/0d6efd-000000-212529-6c757d-ffffff "Coolors") to generate my colour palette.
 

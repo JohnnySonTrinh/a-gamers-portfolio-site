@@ -87,3 +87,29 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) was used for all other secondary text.
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
+
+## Features
+
+### Existing Features
+
+### Future Features
+
+## Tools & Technologies Used
+
+## Testing
+
+## Deployment
+
+### Local Deployment
+
+#### Cloning
+
+### Local VS Deployment
+
+## Credits
+
+### Content
+
+### Media
+
+### Acknowledgements

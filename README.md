@@ -113,6 +113,14 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 
 ## Deployment
 
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+- In the [GitHub repository](https://github.com/JohnnySonTrinh/a-gamers-portfolio-site), navigate to the Settings tab
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://johnnysontrinh.github.io/a-gamers-portfolio-site)
+
 ### Local Deployment
 
 #### Cloning

@@ -23,11 +23,9 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
-| File         | Jigsaw URL                                                                                                                   | Screenshot                                               | Notes                              |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------- |
-| style.css    | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site) | ![screenshot](documentation/css-validation-style.png)    | Pass: No Errors                    |
-| checkout.css | n/a                                                                                                                          | ![screenshot](documentation/css-validation-checkout.png) | Pass: No Errors                    |
-| x            | x                                                                                                                            | x                                                        | repeat for all remaining CSS files |
+| File      | Jigsaw URL                                                                                                                   | Screenshot                                            | Notes           |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------- |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site) | ![screenshot](documentation/css-validation-style.png) | Pass: No Errors |
 
 ## Browser Compatibility
 
@@ -68,65 +66,3 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | About   | ![screenshot](documentation/lighthouse-about-mobile.png)   | ![screenshot](documentation/lighthouse-about-desktop.png)   | Some minor warnings                     |
 | Gallery | ![screenshot](documentation/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images  |
 | x       | x                                                          | x                                                           | repeat for any other tested pages/sizes |
-
-## User Story Testing
-
-| User Story                                                                                             | Screenshot                                 |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.          | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.          | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.          | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.    | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.    | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.    | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories                                                                  | x                                          |
-
-## Bugs
-
-- JS Uncaught ReferenceError: `foobar` is undefined/not defined
-
-  ![screenshot](documentation/bug01.png)
-
-  - To fix this, I ****\*\*****\_****\*\*****.
-
-- JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
-
-  ![screenshot](documentation/bug02.png)
-
-  - To fix this, I ****\*\*****\_****\*\*****.
-
-- Python `'ModuleNotFoundError'` when trying to import module from imported package
-
-  ![screenshot](documentation/bug03.png)
-
-  - To fix this, I ****\*\*****\_****\*\*****.
-
-- Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
-
-  ![screenshot](documentation/bug04.png)
-
-  - To fix this, I ****\*\*****\_****\*\*****.
-
-- Python `E501 line too long` (93 > 79 characters)
-
-  ![screenshot](documentation/bug04.png)
-
-  - To fix this, I ****\*\*****\_****\*\*****.
-
-## Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed.
-This section should include shortcomings of the frameworks or technologies used.
-Although time can be a big variable to consider, paucity of time and difficulty understanding
-implementation is not a valid reason to leave bugs unfixed.
-
-If you've identified any unfixed bugs, no matter how small, be sure to list them here.
-It's better to be honest and list them, because if it's not documented and an assessor finds the issue,
-they need to know whether or not you're aware of them as well, and why you've not corrected/fixed them.
-
-Some examples:
-
-There are no remaining bugs that I am aware of.

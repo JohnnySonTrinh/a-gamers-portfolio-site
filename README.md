@@ -175,6 +175,11 @@ The content for the "About Me" and "Services" sections were written by me, based
 
 ### Media
 
+- All in-game screenshots and images were taken by myself.
+- The photos used in this site were obtained from [Pexels](https://www.pexels.com).
+- Game icons and logos were provided by [Font Awesome](https://fontawesome.com).
+
 ### Acknowledgements
 
 - I would like to thank my mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
+- Thanks to my fellow gamers and peers at [Proguides](https://proguides.com)

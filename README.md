@@ -120,7 +120,13 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 
 ## Testing
 
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
+### HTML
+
+I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
+
+| Page | W3C URL                                                                                                               | Screenshot                                                 | Notes           |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------- |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Findex.html) | ![screenshot](documentation/test/html-validation-home.png) | Pass: No Errors |
 
 ## Deployment
 

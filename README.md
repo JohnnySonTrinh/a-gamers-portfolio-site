@@ -111,6 +111,8 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 
 ## Testing
 
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
+
 ## Deployment
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:

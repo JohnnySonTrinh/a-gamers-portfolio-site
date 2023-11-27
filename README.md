@@ -128,6 +128,14 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Findex.html) | ![screenshot](documentation/testing/html-validation-home.png) | Pass: No Errors |
 
+### CSS
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
+
+| File      | Jigsaw URL                                                                                                                   | Screenshot                                                    | Notes           |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site) | ![screenshot](documentation/testing/css-validation-style.png) | Pass: No Errors |
+
 ## Deployment
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:

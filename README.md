@@ -116,7 +116,7 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 - [Visual Studio Code](https://code.visualstudio.com/) used as a cloud-based IDE for development.
-- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for
+- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for responsive design.
 
 ## Testing
 

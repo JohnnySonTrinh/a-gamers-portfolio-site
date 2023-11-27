@@ -4,30 +4,28 @@
 
 ## User Experience
 
-### User Requirements and Expectations
-
-#### User Goals
+### User Goals
 
 - Visually appealing, including images.
 - Easily navigated around.
 - Quality and valuable content.
 - Easily found contact details.
 
-#### Site Owner's Goals
+### Site Owner's Goals
 
 - Showcase professional gaming credentials and coaching services to attract clients seeking personal coaching in Valorant.
 - Provide detailed information about coaching methods, success stories, and available sessions.
 - Establish credibility through sharing testimonials and experiences from previous clients.
 - Improve online visibility and attract traffic from potential clients and gaming enthusiasts.
 
-#### Requirements
+### Requirements
 
 - Responsive design for a seamless experience on desktop, tablet, and mobile devices.
 - Upfront and clear information about the services and value proposition of the gaming portfolio.
 - A straightforward method for users to reach out via contact forms or social media.
 - A design that captures the dynamic and immersive world of gaming and Valorant!
 
-#### Expectations
+### Expectations
 
 - All external links, especially to social media channels, open in new tabs to facilitate easy return navigation.
 - Every internal link, from navigation menus to call-to-action buttons, functions correctly guiding users without error.
@@ -92,7 +90,18 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 
 ### Existing Features
 
+- **Navigation Bar**: Fully responsive on all device sizes and interactive.
+- **About Me Section**: Detailed information about my professional gaming background and coaching philosophy.
+- **Services Section**: An overview of the coaching services I offer.
+- **Testimonials Carousel**: Feedback from previous clients to establish credibility.
+- **Contact Form**: A simple and intuitive way for potential clients to reach out to me.
+
 ### Future Features
+
+- **Live Session Booking**: An integrated booking system for clients to schedule coaching sessions.
+- **Blog**: Regular updates and insights on gaming strategies and industry trends.
+- **Multimedia Content**: Video tutorials and gameplay analysis.
+- **Community Forum**: A space for clients to discuss strategies and share experiences.
 
 ## Tools & Technologies Used
 
@@ -127,7 +136,7 @@ The live link can be found [here](https://johnnysontrinh.github.io/a-gamers-port
 
 This project can be cloned or forked in order to make a local copy on your own system.
 
-#### Cloning
+### Cloning
 
 You can clone the repository by following these steps:
 
@@ -147,7 +156,7 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
 A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
 
-#### Forking
+### Forking
 
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
 You can fork this repository by using the following steps:
@@ -156,11 +165,13 @@ You can fork this repository by using the following steps:
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
-### Local VS Deployment
-
 ## Credits
 
+This project would not have been possible without the following resources and contributions:
+
 ### Content
+
+The content for the "About Me" and "Services" sections were written by me, based on my professional gaming experiences.
 
 ### Media
 

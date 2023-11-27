@@ -140,10 +140,10 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Browser                              | Home                                                         | About                                                         | Services                                                | etc                                                 | Notes             |
-| ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | ----------------- |
-| Chrome                               | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-about.png) | ![screenshot](documentation/browser-chrome-contact.png) | ![screenshot](documentation/browser-chrome-etc.png) | Works as expected |
-| repeat for any other tested browsers | x                                                            | x                                                             | x                                                       | x                                                   | x                 |
+| Browser                              | Home                                                         | About                                                         | Services                                                         | Reviews                                                         | Contact                                                         | Notes             |
+| ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------- |
+| Chrome                               | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-about.png) | ![screenshot](documentation/testing/browser-chrome-services.png) | ![screenshot](documentation/testing/browser-chrome-reviews.png) | ![screenshot](documentation/testing/browser-chrome-contact.png) | Works as expected |
+| repeat for any other tested browsers | x                                                            | x                                                             | x                                                                | x                                                               | x                                                               |
 
 ## Deployment
 

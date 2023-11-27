@@ -136,6 +136,20 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | --------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |
 | style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site) | ![screenshot](documentation/testing/css-validation-style.png) | Pass: No Errors |
 
+## Browser Compatibility
+
+I've tested my deployed project on multiple browsers to check for compatibility issues.
+
+| Browser                                                                                               | Home                                                         | About                                                         | Contact                                                  | etc                                                  | Notes                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | --------------------- |
+| ![Chrome](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/chrome.png)   | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-about.png) | ![screenshot](documentation/browser-chrome-contact.png)  | ![screenshot](documentation/browser-chrome-etc.png)  | Works as expected     |
+| ![Firefox](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/firefox.png) | ![screenshot](documentation/browser-firefox-home.png)        | ![screenshot](documentation/browser-firefox-about.png)        | ![screenshot](documentation/browser-firefox-contact.png) | ![screenshot](documentation/browser-firefox-etc.png) | Works as expected     |
+| ![Edge](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/edge.png)       | ![screenshot](documentation/browser-edge-home.png)           | ![screenshot](documentation/browser-edge-about.png)           | ![screenshot](documentation/browser-chrome-edge.png)     | ![screenshot](documentation/browser-edge-etc.png)    | Works as expected     |
+| ![Safari](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/safari.png)   | ![screenshot](documentation/browser-safari-home.png)         | ![screenshot](documentation/browser-safari-about.png)         | ![screenshot](documentation/browser-safari-contact.png)  | ![screenshot](documentation/browser-safari-etc.png)  | Minor CSS differences |
+| ![Brave](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/brave.png)     | ![screenshot](documentation/browser-brave-home.png)          | ![screenshot](documentation/browser-brave-about.png)          | ![screenshot](documentation/browser-brave-contact.png)   | ![screenshot](documentation/browser-brave-etc.png)   | Works as expected     |
+| ![Opera](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/opera.png)     | ![screenshot](documentation/browser-opera-home.png)          | ![screenshot](documentation/browser-opera-about.png)          | ![screenshot](documentation/browser-opera-contact.png)   | ![screenshot](documentation/browser-opera-etc.png)   | Minor differences     |
+| repeat for any other tested browsers                                                                  | x                                                            | x                                                             | x                                                        | x                                                    | x                     |
+
 ## Deployment
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:

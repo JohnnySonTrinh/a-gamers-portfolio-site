@@ -15,14 +15,9 @@ You are not required to validate external libraries/frameworks, such as imported
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-| Page     | W3C URL                                                                                                                 | Screenshot                                                | Notes                               |
-| -------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------- |
-| Home     | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Findex.html)   | ![screenshot](documentation/html-validation-home.png)     | Section lacks header h2-h6 warning  |
-| Contact  | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Fcontact.html) | ![screenshot](documentation/html-validation-contact.png)  | obsolete iframe warnings            |
-| Quiz     | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Fquiz.html)    | ![screenshot](documentation/html-validation-quiz.png)     | Pass: No Errors                     |
-| Add Blog | n/a                                                                                                                     | ![screenshot](documentation/html-validation-add-blog.png) | Duplicate IDs found, and fixed      |
-| Checkout | n/a                                                                                                                     | ![screenshot](documentation/html-validation-checkout.png) | Pass: No Errors                     |
-| x        | x                                                                                                                       | x                                                         | repeat for all remaining HTML files |
+| Page | W3C URL                                                                                                               | Screenshot                                            | Notes                              |
+| ---- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------- |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
 
 ### CSS
 
@@ -76,18 +71,18 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## User Story Testing
 
-| User Story                                                                                     | Screenshot                                 |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| As a new site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.          | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.          | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.          | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.    | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.    | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ****\_\_\_\_****, so that I can ****\_\_\_\_****.    | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ****\_\_\_\_****, so that I can ****\_\_\_\_****. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ****\_\_\_\_****, so that I can ****\_\_\_\_****. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ****\_\_\_\_****, so that I can ****\_\_\_\_****. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories                                                          | x                                          |
+| User Story                                                                                             | Screenshot                                 |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
+| As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.          | ![screenshot](documentation/feature01.png) |
+| As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.          | ![screenshot](documentation/feature02.png) |
+| As a new site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.          | ![screenshot](documentation/feature03.png) |
+| As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.    | ![screenshot](documentation/feature04.png) |
+| As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.    | ![screenshot](documentation/feature05.png) |
+| As a returning site user, I would like to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***.    | ![screenshot](documentation/feature06.png) |
+| As a site administrator, I should be able to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***. | ![screenshot](documentation/feature07.png) |
+| As a site administrator, I should be able to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***. | ![screenshot](documentation/feature08.png) |
+| As a site administrator, I should be able to \***\*\_\_\_\_\*\***, so that I can \***\*\_\_\_\_\*\***. | ![screenshot](documentation/feature09.png) |
+| repeat for all remaining user stories                                                                  | x                                          |
 
 ## Bugs
 
@@ -95,35 +90,33 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
   ![screenshot](documentation/bug01.png)
 
-  - To fix this, I **********\_**********.
+  - To fix this, I ****\*\*****\_****\*\*****.
 
 - JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
 
   ![screenshot](documentation/bug02.png)
 
-  - To fix this, I **********\_**********.
+  - To fix this, I ****\*\*****\_****\*\*****.
 
 - Python `'ModuleNotFoundError'` when trying to import module from imported package
 
   ![screenshot](documentation/bug03.png)
 
-  - To fix this, I **********\_**********.
+  - To fix this, I ****\*\*****\_****\*\*****.
 
 - Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
 
   ![screenshot](documentation/bug04.png)
 
-  - To fix this, I **********\_**********.
+  - To fix this, I ****\*\*****\_****\*\*****.
 
 - Python `E501 line too long` (93 > 79 characters)
 
   ![screenshot](documentation/bug04.png)
 
-  - To fix this, I **********\_**********.
+  - To fix this, I ****\*\*****\_****\*\*****.
 
 ## Unfixed Bugs
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 You will need to mention unfixed bugs and why they were not fixed.
 This section should include shortcomings of the frameworks or technologies used.

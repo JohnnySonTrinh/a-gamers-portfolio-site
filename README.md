@@ -1,4 +1,4 @@
-# [A GAMERS PORTFOLIO SITE](https://johnnysontrinh.github.io/a-gamers-portfolio-site)
+# [COACH DOMESTICO](https://johnnysontrinh.github.io/a-gamers-portfolio-site)
 
 ![Preview of my website](documentation/preview.png "Website Preview")
 
@@ -35,6 +35,12 @@
   - [Acknowledgements](#acknowledgements)
 
 <a id=#introduction></a>
+
+## Introduction
+
+![Preview of my website](documentation/landing-page.png "Website Preview")
+
+Welcome to [Coach Domestico's Portfolio Site](https://johnnysontrinh.github.io/a-gamers-portfolio-site), a dedicated platform showcasing professional gaming credentials and personalized coaching services. This website is a nexus where my passion for gaming and expertise in web development converge, creating an engaging space for Valorant players seeking to elevate their skills.
 
 <a id=#user-experience></a>
 

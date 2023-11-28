@@ -150,10 +150,15 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 ### Existing Features
 
 - **Navigation Bar**: Fully responsive on all device sizes and interactive.
+  ![screenshot](documentation/testing/browser-chrome-home.png)
 - **About Me Section**: Detailed information about my professional gaming background and coaching philosophy.
+  ![screenshot](documentation/testing/browser-chrome-about.png)
 - **Services Section**: An overview of the coaching services I offer.
-- **Testimonials Carousel**: Feedback from previous clients to establish credibility.
+  ![screenshot](documentation/testing/browser-chrome-services.png)
+- **Reviews Carousel**: Feedback from previous clients to establish credibility.
+  ![screenshot](documentation/testing/browser-chrome-reviews.png)
 - **Contact Form**: A simple and intuitive way for potential clients to reach out to me.
+  ![screenshot](documentation/testing/browser-chrome-contact.png)
 
 <a id=#future-features></a>
 

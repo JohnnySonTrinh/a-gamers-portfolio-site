@@ -1,6 +1,6 @@
 # [COACH DOMESTICO](https://johnnysontrinh.github.io/a-gamers-portfolio-site)
 
-![Preview of my website](documentation/preview.png "Website Preview")
+![Preview of my website](documentation/readme/preview.png "Website Preview")
 
 **Table of contents:**
 
@@ -38,7 +38,7 @@
 
 ## Introduction
 
-![Preview of my website](documentation/landing-page.png "Website Preview")
+![Preview of my website](documentation/readme/landing-page.png "Website Preview")
 
 Welcome to [Coach Domestico's Portfolio Site](https://johnnysontrinh.github.io/a-gamers-portfolio-site), a dedicated platform showcasing professional gaming credentials and personalized coaching services. This website is a nexus where my passion for gaming and expertise in web development converge, creating an engaging space for Valorant players seeking to elevate their skills.
 
@@ -103,7 +103,7 @@ For wireframing and viual structuring of my website's layout and design, I chose
 
 I used [coolors.co](https://coolors.co/0d6efd-000000-212529-6c757d-ffffff "Coolors") to generate my colour palette.
 
-![screenshot](documentation/coolors.png)
+![screenshot](documentation/readme/coolors.png)
 
 I've used CSS ':root' variables to easily update the global colour scheme by changing only one value instead of everywhere in the CSS file.
 

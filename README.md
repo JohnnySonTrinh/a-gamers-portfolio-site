@@ -88,13 +88,12 @@ Welcome to [Coach Domestico's Portfolio Site](https://johnnysontrinh.github.io/a
 
 For wireframing and viual structuring of my website's layout and design, I chose to utilize [Balsamiq](http://balsamiq.com/wireframes/ "Balsamic"). This tool allowed me to meticulously plan for a user-centric interface, ensuring that the experiance remains consistent and accessible on various devices. My goal throughout the design process was to prioritize ease of use and maintain a cohesive aesthetic from one to the next.
 
-The wireframes are below:
+| Device     | Desktop                                                                      | Tablet                                                                    | Mobile                                                                    |
+| ---------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Screenshot | ![screenshot](documentation/wireframe/wireframe-desktop.png)                 | ![screenshot](documentation/wireframe/wireframe-tablet.png)               | ![screenshot](documentation/wireframe/wireframe-mobile.png)               |
+| Wireframe  | [Desktop Wireframe](documentation/wireframe-desktop.png "Desktop Wireframe") | [Tablet Wireframe](documentation/wireframe-tablet.png "Tablet Wireframe") | [Mobile Wireframe](documentation/wireframe-mobile.png "Mobile Wireframe") |
 
-### [Desktop Wireframe](documentation/wireframe-desktop.png "Desktop Wireframe")
-
-### [Tablet Wireframe](documentation/wireframe-tablet.png "Tablet Wireframe")
-
-### [Mobile Wireframe](documentation/wireframe-mobile.png "Mobile Wireframe")
+<a id=#ux></a>
 
 ## UX
 

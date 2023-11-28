@@ -2,7 +2,45 @@
 
 ![Preview of my website](documentation/preview.png "Website Preview")
 
+**Table of contents:**
+
+- [Introduction](#introduction)
+- [User Experience](#user-experience)
+  - [User Goals](#user-goals)
+  - [Site Owners-goals](#site-owners-goals)
+  - [Requirements](#requirements)
+  - [Expectations](#expectations)
+- [Wireframes](#wireframes)
+- [UX](#ux)
+  - [Colors Scheme](#colors-scheme)
+  - [TypoGraphy](#typography)
+- [Features](#features)
+  - [Existing Features](#existing-features)
+  - [Future Features](#future-features)
+- [Technologies](#technologies)
+  - [Language](#language)
+  - [Tools](#tools)
+  - [Frameworks & Libaries](#frameworks-libaries)
+- [Testing](#testing)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Browser Compatibility](#browser-compatibility)
+- [Deployment](#deployment)
+  - [Local Deployment](#local-deployment)
+  - [Cloning](#cloning)
+  - [Forking](#forking)
+- [Credits](#credits)
+  - [Content](#content)
+  - [Media](#media)
+  - [Acknowledgements](#acknowledgements)
+
+<a id=#introduction></a>
+
+<a id=#user-experience></a>
+
 ## User Experience
+
+<a id=#user-goals></a>
 
 ### User Goals
 
@@ -11,12 +49,16 @@
 - Quality and valuable content.
 - Easily found contact details.
 
+<a id=#site-owners-goals></a>
+
 ### Site Owner's Goals
 
 - Showcase professional gaming credentials and coaching services to attract clients seeking personal coaching in Valorant.
 - Provide detailed information about coaching methods, success stories, and available sessions.
 - Establish credibility through sharing testimonials and experiences from previous clients.
 - Improve online visibility and attract traffic from potential clients and gaming enthusiasts.
+
+<a id=#requirements></a>
 
 ### Requirements
 
@@ -25,12 +67,16 @@
 - A straightforward method for users to reach out via contact forms or social media.
 - A design that captures the dynamic and immersive world of gaming and Valorant!
 
+<a id=#expectations></a>
+
 ### Expectations
 
 - All external links, especially to social media channels, open in new tabs to facilitate easy return navigation.
 - Every internal link, from navigation menus to call-to-action buttons, functions correctly guiding users without error.
 - the quality and performance of the website should be consistent across all devices and screen sizes.
 - All content, from biographical details to service offerings, should be current, precise and accurate.
+
+<a id=#wireframes></a>
 
 ## Wireframes
 
@@ -45,6 +91,8 @@ The wireframes are below:
 ### [Mobile Wireframe](documentation/wireframe-mobile.png "Mobile Wireframe")
 
 ## UX
+
+<a id=#colors-scheme></a>
 
 ### Colors Scheme
 
@@ -78,6 +126,8 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 }
 ```
 
+<a id=#typography></a>
+
 ### Typography
 
 - [Roboto](https://fonts.google.com/specimen/Roboto) was used for the primary headers and titles.
@@ -86,7 +136,11 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
+<a id=#features></a>
+
 ## Features
+
+<a id=#existing-features></a>
 
 ### Existing Features
 
@@ -95,6 +149,8 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 - **Services Section**: An overview of the coaching services I offer.
 - **Testimonials Carousel**: Feedback from previous clients to establish credibility.
 - **Contact Form**: A simple and intuitive way for potential clients to reach out to me.
+
+<a id=#future-features></a>
 
 ### Future Features
 
@@ -117,8 +173,15 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 - [Visual Studio Code](https://code.visualstudio.com/) used as a cloud-based IDE for development.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for responsive design.
+<a id=technologies></a>
+<a id=language></a>
+<a id=tools></a>
+<a id=frameworks-libaries></a>
+<a id=#testing></a>
 
 ## Testing
+
+<a id=#html></a>
 
 ### HTML
 
@@ -128,6 +191,8 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 | ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Findex.html) | ![screenshot](documentation/testing/html-validation-home.png) | Pass: No Errors |
 
+<a id=#css></a>
+
 ### CSS
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
@@ -135,6 +200,8 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | File      | Jigsaw URL                                                                                                                   | Screenshot                                                    | Notes           |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |
 | style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site) | ![screenshot](documentation/testing/css-validation-style.png) | Pass: No Errors |
+
+<a id=#browser compatibility></a>
 
 ## Browser Compatibility
 
@@ -144,6 +211,8 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------- |
 | Chrome                               | ![screenshot](documentation/testing/browser-chrome-home.png) | ![screenshot](documentation/testing/browser-chrome-about.png) | ![screenshot](documentation/testing/browser-chrome-services.png) | ![screenshot](documentation/testing/browser-chrome-reviews.png) | ![screenshot](documentation/testing/browser-chrome-contact.png) | Works as expected |
 | repeat for any other tested browsers | x                                                            | x                                                             | x                                                                | x                                                               | x                                                               |
+
+<a id=#deployment></a>
 
 ## Deployment
 
@@ -155,9 +224,13 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
 The live link can be found [here](https://johnnysontrinh.github.io/a-gamers-portfolio-site)
 
+<a id=#local-deployment></a>
+
 ### Local Deployment
 
 This project can be cloned or forked in order to make a local copy on your own system.
+
+<a id=#cloning></a>
 
 ### Cloning
 
@@ -179,6 +252,8 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
 A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
 
+<a id=#forking></a>
+
 ### Forking
 
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
@@ -188,19 +263,27 @@ You can fork this repository by using the following steps:
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
+<a id=#credits></a>
+
 ## Credits
 
 This project would not have been possible without the following resources and contributions:
 
+<a id=#content></a>
+
 ### Content
 
 The content for the "About Me" and "Services" sections were written by me, based on my professional gaming experiences.
+
+<a id=#media></a>
 
 ### Media
 
 - All in-game screenshots and images were taken by myself.
 - The photos used in this site were obtained from [Pexels](https://www.pexels.com).
 - Game icons and logos were provided by [Font Awesome](https://fontawesome.com).
+
+<a id=#acknowledgements></a>
 
 ### Acknowledgements
 

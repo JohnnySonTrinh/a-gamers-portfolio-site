@@ -211,6 +211,12 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | --------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |
 | style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site) | ![screenshot](documentation/testing/css-validation-style.png) | Pass: No Errors |
 
+### Lighthouse Accessibility & Performance
+
+| Desktop                                                        | Mobile                                                        |
+| -------------------------------------------------------------- | ------------------------------------------------------------- |
+| ![screenshot](documentation/lighthouse/lighthouse-desktop.png) | ![screenshot](documentation/lighthouse/lighthouse-mobile.png) |
+
 <a id=#browser compatibility></a>
 
 ## Browser Compatibility

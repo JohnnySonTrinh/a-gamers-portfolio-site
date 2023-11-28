@@ -193,6 +193,13 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 - CSS Validator
 
 <a id=frameworks-libaries></a>
+
+### Frameworks & Libaries
+
+- [Favicon](https://favicon.io/)
+- [Fontawesome](https://fontawesome.com/)
+- [Bootstrap](https://getbootstrap.com)
+
 <a id=#testing></a>
 
 ## Testing

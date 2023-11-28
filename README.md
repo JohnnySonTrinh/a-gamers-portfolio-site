@@ -170,8 +170,28 @@ I've used CSS ':root' variables to easily update the global colour scheme by cha
 - **Community Forum**: A space for clients to discuss strategies and share experiences.
 
 <a id=technologies></a>
+
+## Technologies
+
 <a id=language></a>
+
+### Language
+
+- HTML
+- CSS
+- JavaScript
+
 <a id=tools></a>
+
+### Tools
+
+- VScode
+- Balsamiq
+- Gitpod
+- Github
+- HTML Validator
+- CSS Validator
+
 <a id=frameworks-libaries></a>
 <a id=#testing></a>
 

@@ -264,7 +264,7 @@ footer p {
 }
 
 .placeholder-color::placeholder {
-  color: var(--clr-primary-2);
+  color: var(--clr-primary);
   opacity: 0.7;
 }
 

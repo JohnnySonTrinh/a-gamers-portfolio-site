@@ -385,3 +385,8 @@ footer p {
     width: 95vw;
   }
 }
+
+.thank-you-container p,
+h1 {
+  color: var(--clr-white);
+}

@@ -99,7 +99,7 @@ These bugs were systematically addressed and tested to ensure they were resolved
 
 ## Remaining Bugs
 
-I've identified a bug concerning the hero image not scaling properly on certain mobile devices. The hero image is intended to be a central visual element, but on iPhone 14 and certain Android devices, it does not scale to show the entire image, cutting off significant parts of it. This affects the visual impact and user experience on these devices.
+I've identified a bug concerning the hero image not scaling properly on certain mobile devices. The hero image is intended to be a central visual element, but on iPhone 14 it does not scale to show the entire image, cutting off significant parts of it. This affects the visual impact and user experience on these devices.
 
 | Device    | Description                                                                                                                                                              | Screenshot                                                                        | Attempted Fixes                                                          | Status     |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------- |

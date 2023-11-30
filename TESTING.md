@@ -10,9 +10,10 @@ Welcome to the A Gamers Portofolio Site testing results, in this file you will s
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-| Page | W3C URL                                                                                                               | Screenshot                                                    | Notes           |
-| ---- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------------- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Findex.html) | ![screenshot](documentation/testing/html-validation-home.png) | Pass: No Errors |
+| Page     | W3C URL                                                                                                                  | Screenshot                                                        | Notes           |
+| -------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | --------------- |
+| Home     | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Findex.html)    | ![screenshot](documentation/testing/html-validation-home.png)     | Pass: No Errors |
+| Thankyou | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FJohnnySonTrinh.github.io%2Fa-gamers-portfolio-site%2Fthankyou.html) | ![screenshot](documentation/testing/html-validation-thankyou.png) | Pass: No Errors |
 
 ### CSS
 

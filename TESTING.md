@@ -97,6 +97,18 @@ Throughout the development process, I encountered several bugs, which were docum
 
 These bugs were systematically addressed and tested to ensure they were resolved.
 
+## Remaining Bugs
+
+I've identified a bug concerning the hero image not scaling properly on certain mobile devices. The hero image is intended to be a central visual element, but on iPhone 14 and certain Android devices, it does not scale to show the entire image, cutting off significant parts of it. This affects the visual impact and user experience on these devices.
+
+| Device    | Description                                                                                                                                                              | Screenshot                                                                        | Attempted Fixes                                                          | Status     |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------- |
+| iPhone 14 | The hero image does not scale correctly, resulting in only the top part of the image being visible. This detracts from the intended visual experience.                   | ![iPhone 14 Hero Image Issue](documentation/testing/iphone-14-responsiveness.png) | Adjusting the background-size and background-position properties in CSS. | Unresolved |
+| OnePlus   | No issue with the hero image the character is fully visible.                                                                                                             | ![Android Hero Image Issue](documentation/testing/oneplus-responsiveness.jpg)     | No needed                                                                | Resolved   |
+| iPad 2011 | iPad does not scale correctly, resulting the nav bar convert as min width above 800px. This detract from the intended visual experience beacause this count as a tablet. | ![iPad 2011 Tablet Issue](documentation/testing/ipad-2011-responsiveness.jpeg)    | changing media queries.                                                  | Unresolved |
+
+These bugs are critical due to their impact on the design and first impressions of the site. Further testing and debugging are required to find a solution that ensures the hero image is displayed correctly across all mobile devices.
+
 ## Unfixed Bugs
 
 During the CSS validation process, several parsing errors were reported. These errors are associated with the minified version of Bootstrap's CSS (version 5.3.2), which is an external library used in the project. Here's an overview of the identified issues:
